@@ -1,7 +1,8 @@
 # Lab Report 1
 
 **cd**
-1. ![Image](cd%20no%20args.png)
+
+1) ![Image](cd%20no%20args.png)
 
 The working directory was ~/lecture1/messages when the command was run
 
@@ -9,7 +10,7 @@ I got no output but cd with no arguments just changed the directory to /home
 
 The output is not an error
 
-2. ![Image](cd%20directory.png)
+2) ![Image](cd%20directory.png)
 
 The working directory was /home when the command was run
 
@@ -17,7 +18,7 @@ I got no output, however, my working directory changed from /home to /home/lectu
 
 The output is not an error
 
-3. ![Image](cd%20file.png)
+3) ![Image](cd%20file.png)
 
 The working directory was /home/lecture1 when the command was run
 
@@ -29,7 +30,7 @@ I got an error because you cannot change directories (cd) into a file
 
 **ls**
 
-1. ![Image](ls%20no%20args.png)
+(1) ![Image](ls%20no%20args.png)
 
 The working directory was /home when the command was run
 
@@ -37,7 +38,7 @@ The output lists all of the files and folders within the given directory. Since 
 
 I did not get an error 
 
-2. ![Image](ls%20directory.png)
+(2) ![Image](ls%20directory.png)
 
 The working directory was /home when the command was run
 
@@ -45,7 +46,7 @@ The output lists all of the files and folders within the given directory. Since 
 
 I did not get an error
 
-3. ![Image](ls%20file.png)
+(3) ![Image](ls%20file.png)
 
 The working directory was /home when the command was run
 
