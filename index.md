@@ -2,7 +2,7 @@
 
 **cd**
 
-1) ![Image](cd%20no%20args.png)
+(1) ![Image](cd%20no%20args.png)
 
 The working directory was ~/lecture1/messages when the command was run
 
@@ -10,7 +10,7 @@ I got no output but cd with no arguments just changed the directory to /home
 
 The output is not an error
 
-2) ![Image](cd%20directory.png)
+(2) ![Image](cd%20directory.png)
 
 The working directory was /home when the command was run
 
@@ -18,7 +18,7 @@ I got no output, however, my working directory changed from /home to /home/lectu
 
 The output is not an error
 
-3) ![Image](cd%20file.png)
+(3) ![Image](cd%20file.png)
 
 The working directory was /home/lecture1 when the command was run
 
@@ -57,7 +57,7 @@ I did not get an error
 
 **cat**
 
-1. ![Image](cat%20no%20args.png)
+(1) ![Image](cat%20no%20args.png)
 
 The working directory was /home when the command was run
 
@@ -66,7 +66,7 @@ There was no output because cat prints the lines of a file and there was no argu
 I did not get an error, however, I had to use Ctrl C to start a new line
 
 
-2. ![Image](ls%20directory.png)
+(2) ![Image](ls%20directory.png)
 
 The working directory was /home when the command was run
 
@@ -74,7 +74,7 @@ There was an error output because cat cannot print the lines of a directory, whi
 
 I got an error because the argument given was a directory and not a file
 
-3. ![Image](cat%20file.png)
+(3) ![Image](cat%20file.png)
 
 The working directory was /home when the command was run
 
