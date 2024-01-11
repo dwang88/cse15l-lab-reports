@@ -26,6 +26,7 @@ I got an error in my output because my argument for cd was a file and you cannot
 I got an error because you cannot change directories (cd) into a file
 
 
+
 **ls**
 
 1. ![Image](ls%20no%20args.png)
@@ -36,7 +37,7 @@ The output lists all of the files and folders within the given directory. Since 
 
 I did not get an error 
 
-1. ![Image](ls%20directory.png)
+2. ![Image](ls%20directory.png)
 
 The working directory was /home when the command was run
 
@@ -44,7 +45,7 @@ The output lists all of the files and folders within the given directory. Since 
 
 I did not get an error
 
-1. ![Image](ls%20file.png)
+3. ![Image](ls%20file.png)
 
 The working directory was /home when the command was run
 
@@ -52,3 +53,30 @@ The output lists all of the files and folders within the given directory. Since 
 
 I did not get an error
 
+
+**cat**
+
+1. ![Image](cat%20no%20args.png)
+
+The working directory was /home when the command was run
+
+There was no output because cat prints the lines of a file and there was no argument given
+
+I did not get an error, however, I had to use Ctrl C to start a new line
+
+
+2. ![Image](ls%20directory.png)
+
+The working directory was /home when the command was run
+
+There was an error output because cat cannot print the lines of a directory, which was given in the argument
+
+I got an error because the argument given was a directory and not a file
+
+3. ![Image](cat%20file.png)
+
+The working directory was /home when the command was run
+
+The output contained the lines of the Hello.java file because of the cat command and the argument given (a file). The cat command prints the lines of a file
+
+I did not get an error
