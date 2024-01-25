@@ -42,7 +42,7 @@ I did not get an error
 
 The working directory was ```/home``` when the command was run
 
-The output lists all of the files and folders within the given directory. Since there was an argument, lecture1, it lists all of the files and folders in ```/home/lecture1```
+The output lists all of the files and folders within the given directory. Since there was an argument, ```lecture1```, it lists all of the files and folders in ```/home/lecture1```
 
 I did not get an error
 
@@ -50,7 +50,7 @@ I did not get an error
 
 The working directory was ```/home``` when the command was run
 
-The output lists all of the files and folders within the given directory. Since there was an argument, lecture1/Hello.java, it lists the file name passed in as an argument
+The output lists all of the files and folders within the given directory. Since there was an argument, ```lecture1/Hello.java```, it lists the file name passed in as an argument
 
 I did not get an error
 
@@ -63,7 +63,7 @@ The working directory was ```/home``` when the command was run
 
 There was no output because cat prints the lines of a file and there was no argument given
 
-I did not get an error, however, I had to use Ctrl C to start a new line
+I did not get an error, however, I had to use ```Ctrl C``` to start a new line
 
 
 (2) ![Image](ls%20directory.png)
